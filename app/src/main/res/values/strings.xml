@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mob Lab 5</string>
+    <string name="reset_button">Reset Count</string>
+    <string name="reset_counters">Reset counters</string>
+</resources>
